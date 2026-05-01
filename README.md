@@ -12,13 +12,19 @@ Week 3: Model with Neural Networks
 
 
 ## Assignment Tasks:
-1. Download and try some examples of RAVDESS audio speech emotion data.
-2. Create your example emotional speech for all of the emotion caterogies by recording your voice. Try to use a similar setting/sentence length with the RAVDESS audio examples.
-3. Add your new audio files to your own OneDrive with a shared link for us to access. Make sure we have "view" permissions. Copy this link for your report.
-4. Combine your voice data with the rest of RAVDESS, by making sure you follow the file naming conventions.
-5. Clone the jupyter notebook into your repository on github.
-6. Perform the same analysis on the combined dataset. [Feature analysis and cleaning, write about the differences between RAVDESS and your dataset]
-7. Commit the changes in your repository, if any.
+Tasks: 
+1. During tutorial:
+- - Clone the tutorial code to your repository, same as how you did last week.
+- - Download the RAVDESS audio speech emotion data.
+- - Run the tutorial code.
+2. Creating New Data with your voice:
+- - Record your voice as additional speech data of all of the emotion categories and save in a separate folder, make sure to use the file naming conventions of the RAVDESS dataset. Use same sentences with the RAVDESS audio examples. You will now be another Actor in the dataset. 
+- - Add your new audio files to your own OneDrive with a shared link for us to access. Make sure we have "view" permissions. Copy this link for your report.
+3. Analysis:
+- - Upload your own data to the jupyter notebook, along with RAVDESS.
+- - Perform the same feature analysis on the 1) RAVDESS only (this is for sanity check, see if you receive same numbers during tutorial), 2) your voice only, 3) combined dataset with RAVDESS+your voice. [Scaled and Unscaled Feature analysis and cleaning, write about the differences between RAVDESS and your dataset]
+- - Check emotion + gender balance in the combined dataset
+- - Commit the changes in your repository.
 
 Write a 1–page report on the analysis that you have performed with the combined dataset, add images. Add a link to your github and shared dataset on OneDrive. Make sure we can access/view them. You can include issues you encountered, how did you solve problems. Upload your report on canvas in PDF format. [between 500-1000 word limit] Cite all your resources, including the datasets as references (outside of page/word limit
 .
