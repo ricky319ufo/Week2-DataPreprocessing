@@ -42,4 +42,4 @@ For this assignment, you will work with a selection of datasets provided in the 
 | **Report** | 1. Correctly uploading your own data  <br> 2. Analysis results of a) RAVDESS, b) your voice only, 3) combined RAVDESS+your voice. Visualize using charts.  <br> 3. Screenshots of results from your notebook  <br> 4. Comment on differences between RAVDESS, your voice and combined.  <br> 5. Comment on gender balance of the final combined dataset. | 3 pts |
 | **Github** | Provide link to your forked repository after you finalize the analyses. The screenshots of results should be taken from this final repository. The final commit should be done before the deadline. | 1 pts |
 
-## Total Points: 5
+### Total Points: 5
